@@ -4,7 +4,7 @@
 
 ## 个人信息
 
-* 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;      年 龄：21
+* 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;      年 龄：21
 * 手 机：13852787102 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：ziqingxin@163.com
 * 专 业：人工智能 &emsp;&emsp;&emsp;&emsp;&emsp;
 * 籍 贯：江苏扬州 &emsp;&emsp;&emsp;&emsp;&emsp;
